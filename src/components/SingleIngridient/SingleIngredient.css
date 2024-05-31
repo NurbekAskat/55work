@@ -1,0 +1,23 @@
+.ingredientBtn {
+  display: inline-block;
+  border: none;
+  width: 60px;
+  height: 60px;
+  background-size: contain;
+}
+
+.Meat {
+  background-image: url("../.././assets/Meat.png");
+}
+
+.Cheese {
+  background-image: url("../../assets/Cheese.jpg");
+}
+
+.Bacon {
+  background-image: url("../.././assets/Bacon.png");
+}
+
+.Salad {
+  background-image: url("../.././assets/Salad.png");
+}
