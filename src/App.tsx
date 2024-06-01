@@ -47,7 +47,7 @@ const App = () => {
   };
 
   return (
-    <>
+    <div className="mainContainer">
       <div>
         <IngredientsTable
           pushButton={pushButton}
@@ -59,7 +59,7 @@ const App = () => {
         <IngredientsCost/>
         <Burger ingredients={ingredients}/>
       </div>
-    </>
+    </div>
   );
 };
 
