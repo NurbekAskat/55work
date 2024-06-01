@@ -14,7 +14,7 @@ const SingleIngredient: React.FC<Props> = ({
                                            }) => {
   return (
     <div>
-      <button onClick={pushButton} className={`ingredientBtn ${ingredient.name}`}></button>
+      <button onClick={pushButton} className={`ingredientBtn ${ingredient.name}Icon`}></button>
       <span>{ingredient.name}</span>
       <span>{ingredient.count}</span>
       <button onClick={deleteButton}>Удалить</button>

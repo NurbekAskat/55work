@@ -6,18 +6,18 @@
   background-size: contain;
 }
 
-.Meat {
-  background-image: url("../.././assets/Meat.png");
+.MeatIcon {
+  background-image: url("../../assets/Meat.png");
 }
 
-.Cheese {
-  background-image: url("../../assets/Cheese.jpg");
+.CheeseIcon {
+  background-image: url("../../assets/Cheese.png");
 }
 
-.Bacon {
+.BaconIcon {
   background-image: url("../.././assets/Bacon.png");
 }
 
-.Salad {
+.SaladIcon {
   background-image: url("../.././assets/Salad.png");
 }
